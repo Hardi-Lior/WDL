@@ -1,0 +1,35 @@
+address,location,point,latitude,longitude,altitude,County
+"amadora,lisboa,Portugal","Amadora, Lisboa, Grande Lisboa, Área Metropolitana de Lisboa, Portugal","(38.7595162, -9.223677009460125, 0.0)",38.7595162,-9.223677009460125,0.0,amadora
+"cascais,lisboa,Portugal","Cascais, Lisboa, Grande Lisboa, Área Metropolitana de Lisboa, Portugal","(38.72240025, -9.396909171649877, 0.0)",38.72240025,-9.396909171649877,0.0,cascais
+"lisboa,lisboa,Portugal","Lisboa, Grande Lisboa, Área Metropolitana de Lisboa, Portugal","(38.7077507, -9.1365919, 0.0)",38.7077507,-9.1365919,0.0,lisboa
+"loures,lisboa,Portugal","Loures, Lisboa, Grande Lisboa, Área Metropolitana de Lisboa, Portugal","(38.8578642, -9.175816056948255, 0.0)",38.8578642,-9.175816056948255,0.0,loures
+"mafra,lisboa,Portugal","Mafra, Lisboa, Grande Lisboa, Área Metropolitana de Lisboa, Portugal","(38.9369782, -9.3282374, 0.0)",38.9369782,-9.3282374,0.0,mafra
+"odivelas,lisboa,Portugal","Odivelas, Lisboa, Grande Lisboa, Área Metropolitana de Lisboa, Portugal","(38.7953835, -9.18782210264363, 0.0)",38.7953835,-9.18782210264363,0.0,odivelas
+"oeiras,lisboa,Portugal","Oeiras, Lisboa, Grande Lisboa, Área Metropolitana de Lisboa, Portugal","(38.7124971, -9.271300382407272, 0.0)",38.7124971,-9.271300382407272,0.0,oeiras
+"sintra,lisboa,Portugal","Sintra, Lisboa, Grande Lisboa, Área Metropolitana de Lisboa, Portugal","(38.8355605, -9.352225245746453, 0.0)",38.8355605,-9.352225245746453,0.0,sintra
+"vila franca de xira,lisboa,Portugal","Vila Franca de Xira, Lisboa, Grande Lisboa, Área Metropolitana de Lisboa, Portugal","(38.912368400000005, -8.988824041991643, 0.0)",38.912368400000005,-8.988824041991643,0.0,vila franca de xira
+"alcochete,setúbal,Portugal","Alcochete, Setúbal, Península de Setúbal, Área Metropolitana de Lisboa, Portugal","(38.7560499, -8.9608437, 0.0)",38.7560499,-8.9608437,0.0,alcochete
+"almada,setúbal,Portugal","Almada, Setúbal, Península de Setúbal, Área Metropolitana de Lisboa, Portugal","(38.6764302, -9.1649974, 0.0)",38.6764302,-9.1649974,0.0,almada
+"barreiro,setúbal,Portugal","Barreiro, Setúbal, Península de Setúbal, Área Metropolitana de Lisboa, Portugal","(38.6340657, -9.047856727251068, 0.0)",38.6340657,-9.047856727251068,0.0,barreiro
+"moita,setúbal,Portugal","Moita, Setúbal, Península de Setúbal, Área Metropolitana de Lisboa, Portugal","(38.6523995, -8.9935314, 0.0)",38.6523995,-8.9935314,0.0,moita
+"montijo,setúbal,Portugal","Montijo, Setúbal, Península de Setúbal, Área Metropolitana de Lisboa, Portugal","(38.74502535, -8.628858514902682, 0.0)",38.74502535,-8.628858514902682,0.0,montijo
+"palmela,setúbal,Portugal","Palmela, Setúbal, Península de Setúbal, Área Metropolitana de Lisboa, Portugal","(38.569601, -8.9011653, 0.0)",38.569601,-8.9011653,0.0,palmela
+"seixal,setúbal,Portugal","Seixal, Setúbal, Península de Setúbal, Área Metropolitana de Lisboa, Portugal","(38.6422246, -9.1072662, 0.0)",38.6422246,-9.1072662,0.0,seixal
+"sesimbra,setúbal,Portugal","Santiago, Sesimbra, Setúbal, Península de Setúbal, Área Metropolitana de Lisboa, Portugal","(38.4454915, -9.099472824318077, 0.0)",38.4454915,-9.099472824318077,0.0,sesimbra
+"setúbal,setúbal,Portugal","Setúbal, Península de Setúbal, Área Metropolitana de Lisboa, Portugal","(38.5241783, -8.8932341, 0.0)",38.5241783,-8.8932341,0.0,setúbal
+"espinho,aveiro,Portugal","Espinho, Aveiro, Área Metropolitana do Porto, Norte, Portugal","(41.0083643, -8.6394111, 0.0)",41.0083643,-8.6394111,0.0,espinho
+"oliveira de azeméis,aveiro,Portugal","Oliveira de Azeméis, Aveiro, Área Metropolitana do Porto, Norte, Portugal","(40.8390118, -8.4777807, 0.0)",40.8390118,-8.4777807,0.0,oliveira de azeméis
+"santa maria da feira,aveiro,Portugal","Santa Maria da Feira, Aveiro, Área Metropolitana do Porto, Norte, Portugal","(40.9254179, -8.5426688, 0.0)",40.9254179,-8.5426688,0.0,santa maria da feira
+"são joão da madeira,aveiro,Portugal","São João da Madeira, Aveiro, Área Metropolitana do Porto, Norte, Portugal","(40.8977193, -8.490675185118615, 0.0)",40.8977193,-8.490675185118615,0.0,são joão da madeira
+"vale de cambra,aveiro,Portugal","Vale de Cambra, Aveiro, Área Metropolitana do Porto, Norte, Portugal","(40.8498115, -8.3939142, 0.0)",40.8498115,-8.3939142,0.0,vale de cambra
+"gondomar,porto,Portugal","Gondomar, Porto, Área Metropolitana do Porto, Norte, Portugal","(41.1398199, -8.5326269, 0.0)",41.1398199,-8.5326269,0.0,gondomar
+"maia,porto,Portugal","Maia, Porto, Área Metropolitana do Porto, Norte, Portugal","(41.237345649999995, -8.629998173364326, 0.0)",41.237345649999995,-8.629998173364326,0.0,maia
+"matosinhos,porto,Portugal","Matosinhos, Porto, Área Metropolitana do Porto, Norte, Portugal","(41.1806814, -8.6821998, 0.0)",41.1806814,-8.6821998,0.0,matosinhos
+"paredes,porto,Portugal","Paredes, Porto, Área Metropolitana do Porto, Norte, Portugal","(41.2123637, -8.347580212435714, 0.0)",41.2123637,-8.347580212435714,0.0,paredes
+"porto,porto,Portugal","Porto, Área Metropolitana do Porto, Norte, Portugal","(41.1494512, -8.6107884, 0.0)",41.1494512,-8.6107884,0.0,porto
+"póvoa de varzim,porto,Portugal","Póvoa de Varzim, Porto, Área Metropolitana do Porto, Norte, Portugal","(41.3794188, -8.7598689, 0.0)",41.3794188,-8.7598689,0.0,póvoa de varzim
+"santo tirso,porto,Portugal","Santo Tirso, Porto, Área Metropolitana do Porto, Norte, Portugal","(41.3440057, -8.4772021, 0.0)",41.3440057,-8.4772021,0.0,santo tirso
+"trofa,porto,Portugal","Trofa, Porto, Área Metropolitana do Porto, Norte, Portugal","(41.3363471, -8.5585061, 0.0)",41.3363471,-8.5585061,0.0,trofa
+"valongo,porto,Portugal","Valongo, Porto, Área Metropolitana do Porto, Norte, Portugal","(41.1909794, -8.4980511, 0.0)",41.1909794,-8.4980511,0.0,valongo
+"vila do conde,porto,Portugal","Vila do Conde, Porto, Área Metropolitana do Porto, Norte, Portugal","(41.3580981, -8.7475631, 0.0)",41.3580981,-8.7475631,0.0,vila do conde
+"vila nova de gaia,porto,Portugal","Vila Nova de Gaia, Porto, Área Metropolitana do Porto, Norte, Portugal","(41.1300103, -8.6058415, 0.0)",41.1300103,-8.6058415,0.0,vila nova de gaia
